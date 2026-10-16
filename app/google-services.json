@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651788628507",
+    "project_id": "irongrid-mobiledev",
+    "storage_bucket": "irongrid-mobiledev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651788628507:android:95547c1282626494873ebe",
+        "android_client_info": {
+          "package_name": "com.example.mobiledev_maat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcrUOUJv94ZN7pKesZaaJZXaegwToF3w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
